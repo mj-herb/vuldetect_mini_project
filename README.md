@@ -1,4 +1,5 @@
-# vuldetect_mini_project
+# vuldetect_mini_project 
+## 2023-08-01 ~ 2023-10-23
 kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로젝트
 
 ## 프로젝트 목적
@@ -90,3 +91,6 @@ kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로
 |ETC|AZR_106|Medium / Lv.2|Azure 앱 서비스 내 웹/앱 HTTPS 리다이렉트 사용 확인|
 |ETC|AZR_107|Medium / Lv.2|최신 버전 TLS 암호화 사용 여부 확인|
 |ETC|AZR_108|High / Lv.3|웹/앱 클라이언트 인증서(수신측) 상태 확인|
+
+###시연 영상
+<img src="https://drive.google.com/file/d/1wltxWuJ8GVDyUymoXOT6NQWbKqOWwZ2X/view?usp=drive_link">
