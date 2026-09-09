@@ -98,7 +98,13 @@ kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로
 |ETC|AZR_107|Medium / Lv.2|최신 버전 TLS 암호화 사용 여부 확인|
 |ETC|AZR_108|High / Lv.3|웹/앱 클라이언트 인증서(수신측) 상태 확인|
 
+
+
 [▶️ 클라우드 취약점 진단 시연 영상 보기](https://drive.google.com/file/d/1wltxWuJ8GVDyUymoXOT6NQWbKqOWwZ2X/view?usp=drive_link)
+
+
+
+<img width="1030" height="818" alt="image" src="https://github.com/user-attachments/assets/ca1b0537-ab83-4f7b-8a99-f888ee47f567" />
 
 <img width="2400" height="1546" alt="10_" src="https://github.com/user-attachments/assets/ebb85c8a-16dd-431b-be96-4eb36217469a" />
 <img width="2400" height="1546" alt="11_" src="https://github.com/user-attachments/assets/a65fb729-e958-4ad7-9794-d0c508394cb5" />
