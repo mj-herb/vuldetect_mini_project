@@ -31,7 +31,7 @@ public class AZR_024 implements AZR_Scanner{
 
     public String category;
 
-    public Boolean Result; //이것은 필요할것인가..?
+    public Boolean Result;
 
     public String resourceGroup;
 
