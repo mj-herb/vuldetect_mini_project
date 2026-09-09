@@ -1,10 +1,13 @@
 # vuldetect_mini_project 
 ## 2023-08-01 ~ 2023-10-23
 kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로젝트
+<img width="2400" height="1486" alt="2_" src="https://github.com/user-attachments/assets/ac587ff9-7f70-44dd-8f1f-369644ce6b69" />
+<img width="2400" height="1350" alt="3_" src="https://github.com/user-attachments/assets/4fc6774a-6e21-4b21-89cc-c44926947e2a" />
 
 ## 프로젝트 목적
 -  Azure 클라우드 환경에서 발생할 수 있는 보안 취약점을 식별하고 보안가이드를 제시함으로써 클라우드의 보안을 향상시키는 것.
 ## 개발 환경
+<img width="2400" height="1350" alt="4_" src="https://github.com/user-attachments/assets/73f50055-8bde-4a3d-8e0f-724a509611a9" />
 1. IDE
     - intelliJ
 1. language
@@ -21,6 +24,9 @@ kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로
 
 ## 구동 환경
 - local 환경
+
+<img width="2400" height="1498" alt="5_" src="https://github.com/user-attachments/assets/0486d31e-daec-41d7-9a09-fded3a106f90" />
+
 ## 기능 / 웹 페이지 구성 
 - azure cis benchmark 컴플라이언스 기준으로 항목 기능 구현과 리소스 단위 취약점 진단.
     1. 프로젝트 관리 페이지
@@ -93,3 +99,10 @@ kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로
 |ETC|AZR_108|High / Lv.3|웹/앱 클라이언트 인증서(수신측) 상태 확인|
 
 [▶️ 클라우드 취약점 진단 시연 영상 보기](https://drive.google.com/file/d/1wltxWuJ8GVDyUymoXOT6NQWbKqOWwZ2X/view?usp=drive_link)
+
+<img width="2400" height="1546" alt="10_" src="https://github.com/user-attachments/assets/ebb85c8a-16dd-431b-be96-4eb36217469a" />
+<img width="2400" height="1546" alt="11_" src="https://github.com/user-attachments/assets/a65fb729-e958-4ad7-9794-d0c508394cb5" />
+<img width="2400" height="1476" alt="12_" src="https://github.com/user-attachments/assets/ea9242b0-09f8-4988-a6a8-6430d656a544" />
+<img width="2400" height="1528" alt="13_" src="https://github.com/user-attachments/assets/34c7dbb8-8981-41bf-8dc6-ea60c4d9b5db" />
+
+
