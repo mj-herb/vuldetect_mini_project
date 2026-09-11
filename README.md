@@ -1,6 +1,6 @@
 # vuldetect_mini_project 
-## 2023-08-01 ~ 2023-10-23
-kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로젝트
+## 2023-08-07 ~ 2023-11-09
+kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로젝트<br>
 (설계 핵심 아키텍처(DTO/Service 계층)는 직접 구현, 세부 기능 구현(html등 ai 의 도움을 받았습니다.)
 <img width="2400" height="1486" alt="2_" src="https://github.com/user-attachments/assets/ac587ff9-7f70-44dd-8f1f-369644ce6b69" />
 <img width="2400" height="1350" alt="3_" src="https://github.com/user-attachments/assets/4fc6774a-6e21-4b21-89cc-c44926947e2a" />
