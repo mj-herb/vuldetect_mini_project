@@ -8,7 +8,6 @@ kisia s/w camp 과정 프로젝트 - cloud(azure) 취약점 진단 미니 프로
 ## 프로젝트 목적
 -  Azure 클라우드 환경에서 발생할 수 있는 보안 취약점을 식별하고 보안가이드를 제시함으로써 클라우드의 보안을 향상시키는 것.
 ## 개발 환경
-<img width="2400" height="1350" alt="4_" src="https://github.com/user-attachments/assets/73f50055-8bde-4a3d-8e0f-724a509611a9" />
 1. IDE
     - intelliJ
 1. language
